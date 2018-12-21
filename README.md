@@ -14,3 +14,18 @@
 __This is bold text__
 __you **can** combine them__
 ___This is bold and italic text___
+
+### Lists
+---
+#### Un-ordered List
++ item1
++ item2
+    i. sub_item1
+    ii. sub_item2
++ item3
+#### Ordered List
+1. item1
+2. item2
+    - sub_item1
+    - sub_item2
+3. item3
