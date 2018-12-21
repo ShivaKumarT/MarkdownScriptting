@@ -1,5 +1,6 @@
 # My Experiments with Markdown Scripting
-### Text
+### Headers
+---
 # This is an h1 tag
 ## This is an h2 tag
 ### This is an h3 tag
