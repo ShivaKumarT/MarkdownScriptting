@@ -10,7 +10,7 @@ function fancyAlert(arg) {
 }
 ```
 #### SH by 4 spaces of code indentation
-    fun() ->
-      io:format("Boom"),
-      io:format("Blasted")
-      end.
+    Fun = fun() ->
+            io:format("Boom"),
+            io:format("Blasted")
+          end.
