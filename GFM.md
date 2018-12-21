@@ -21,3 +21,11 @@ Fun = fun() ->
         io:format("Blast!!!")
       end.
 ```
+#### SH of elixir code
+```elixir
+name = "abc"
+sample = fun ->
+          IO.puts "hi #{name}"
+          IO.puts "welcome to elixir world!"
+         end
+```
