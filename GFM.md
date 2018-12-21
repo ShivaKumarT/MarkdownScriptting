@@ -9,7 +9,7 @@ function fancyAlert(arg) {
   }
 }
 ```
-#### simple code indentaion by 4 spaces
+#### simple code indentation by 4 spaces
     Fun = fun() ->
             io:format("Boom"),
             io:format("Blasted")
@@ -42,3 +42,14 @@ Firat Header | Second Header
 -------------|--------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+### Username @mentions
+---
+@ShivaKumarT
+### Automatic linking for URLs
+---
+http://www.github.com/
+### Strikethrough
+---
+~~~Strikethrough~~~
+
