@@ -20,8 +20,8 @@ ___This is bold and italic text___
 #### Un-ordered List
 + item1
 + item2
-    i. sub_item1
-    ii. sub_item2
+    1. sub_item1
+    2. sub_item2
 + item3
 #### Ordered List
 1. item1
