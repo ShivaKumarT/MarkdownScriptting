@@ -17,7 +17,7 @@ function fancyAlert(arg) {
 #### SH of erlang code
 ```erlang
 Fun = fun() ->
-io:format("Boom"),
-io:format("Blast!!!")
-end.
+        io:format("Boom"),
+        io:format("Blast!!!")
+      end.
 ```
