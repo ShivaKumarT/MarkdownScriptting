@@ -32,7 +32,7 @@ ___This is bold and italic text___
 
 ### Images
 ---
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ### Links
 ---
