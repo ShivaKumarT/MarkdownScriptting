@@ -51,5 +51,5 @@ Content in the first column | Content in the second column
 http://www.github.com/
 ### Strikethrough
 ---
-~~~Strikethrough~~~
+~~Strikethrough~~
 
