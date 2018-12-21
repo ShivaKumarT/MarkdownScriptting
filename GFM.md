@@ -1,7 +1,7 @@
 # GitHub Flavored Markdown
 ### Syntax Highlighting
 ---
-#### SH using back quotes
+#### SH of javascript
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
