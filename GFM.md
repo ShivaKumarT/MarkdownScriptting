@@ -52,4 +52,6 @@ http://www.github.com/
 ### Strikethrough
 ---
 ~~Strikethrough~~
-
+### Emoji
+---
+:smile:
