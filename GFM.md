@@ -9,8 +9,15 @@ function fancyAlert(arg) {
   }
 }
 ```
-#### SH by 4 spaces of code indentation
+#### simple code indentaion by 4 spaces
     Fun = fun() ->
             io:format("Boom"),
             io:format("Blasted")
           end.
+#### SH of erlang code
+```erlang
+Fun = fun() ->
+io:format("Boom"),
+io:format("Blast!!!")
+end.
+```
