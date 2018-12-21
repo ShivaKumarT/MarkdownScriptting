@@ -29,3 +29,11 @@ ___This is bold and italic text___
     - sub_item1
     - sub_item2
 3. item3
+
+### Images
+---
+![GitHub Logo](/images/logo.png)
+
+### Links
+---
+[GitHub](http://github.com)
